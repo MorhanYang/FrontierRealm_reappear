@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: c91480ef27d7fa846843a9ac9518cebe
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - HGGTZH_VF
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 2458df60ccf20bb4fb985b033a1382bd, type: 3}
+  - {fileID: 12800000, guid: 55a792093634c6c459e182fc2138a327, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
